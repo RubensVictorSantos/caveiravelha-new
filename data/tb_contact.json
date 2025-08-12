@@ -1,0 +1,20 @@
+[
+    {
+        "link": "contato@caveiravelha.com",
+        "type": "envelope",
+        "creation_date": "2025-02-03 16:08:41",
+        "id": "67a0dbf94d826"
+    },
+    {
+        "link": "https:\/\/www.facebook.com\/CaveiraVelhaRockBar",
+        "type": "facebook",
+        "creation_date": "2025-02-03 16:08:57",
+        "id": "67a0dc09a5a99"
+    },
+    {
+        "link": "https:\/\/www.instagram.com\/caveiravelhaproducoes",
+        "type": "instagram",
+        "creation_date": "2025-02-03 16:11:14",
+        "id": "67a0dc9247123"
+    }
+]

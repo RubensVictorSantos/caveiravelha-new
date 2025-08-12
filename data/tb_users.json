@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Rubens Victor",
+        "passwd": "$2y$10$DwV3gRuim4c3CNbvsYmKI.feZVeRHE9JMKaYPDBdDOOzS.Fh.b82G",
+        "level": "1",
+        "activation_code": "a:2:{s:4:\"user\";s:13:\"Rubens Victor\";s:6:\"passwd\";s:40:\"e399286236ee9f77dbbca511b341e5f3b590cc35\";}",
+        "creation_date": "2024-01-15 15:07:29",
+        "id": "65a54a31c6b65",
+        "updated_date": "2024-04-25 15:52:03"
+    },
+    {
+        "name": "admin",
+        "passwd": "$2y$10$3hD0GNmzwtNMEmstlMBm7.tSI.Z0drnt\/TSTUMJTHrrnXpJNQWp2y",
+        "level": "1",
+        "activation_code": "a:2:{s:4:\"user\";s:5:\"admin\";s:6:\"passwd\";s:40:\"a8f18cd1e72227c1efb28edd84208cfcfd5ca9d5\";}",
+        "creation_date": "2024-01-29 12:34:46",
+        "id": "65b7c5962f48e"
+    },
+    {
+        "name": "Marc",
+        "passwd": "$2y$10$z4bLpm.8GiYbFQjh12zd\/eV.scFgsjeH7kJW2s2g7RBYM5trhNWKu",
+        "level": "1",
+        "activation_code": "a:2:{s:4:\"user\";s:4:\"Marc\";s:6:\"passwd\";s:40:\"5aa689228c5acfbd3ebc6763e3a20acf27acb915\";}",
+        "creation_date": "2024-04-25 16:34:50",
+        "id": "662ab05a4447a"
+    }
+]

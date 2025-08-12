@@ -1,0 +1,172 @@
+[
+    {
+        "name": "Selvageria \u2013 Ataque Selvagem Vinyl",
+        "image": {
+            "name": [
+                "bcac7828f0c0f03009007c4de70b6509.jpg"
+            ],
+            "full_path": [
+                "event5.jpg"
+            ],
+            "type": [
+                "image\/jpeg"
+            ],
+            "tmp_name": [
+                "C:\\xampp\\tmp\\php875E.tmp"
+            ],
+            "error": [
+                0
+            ],
+            "size": [
+                243500
+            ]
+        },
+        "description": "Red Vinyl\r\n\r\nSegundo \u00e1lbum da banda Brasileira de Speed \/ Thrash Metal, lan\u00e7ado em 2017.\r\n\r\nLimitado em 300 c\u00f3pias.",
+        "shortened_description": "Selvageria \u2013 Ataque Selvagem Vinyl",
+        "price": "100",
+        "status": "on",
+        "creation_date": "2024-01-25 19:45:13",
+        "id": "65b2ba49a565f",
+        "updated_date": "2024-01-26 11:32:37"
+    },
+    {
+        "name": "\u00c1lcool \u2013 Alta Velocidade Vinyl",
+        "image": {
+            "name": [
+                "0ce7f1b9492adf3f1f314fe54a4586aa.jpg"
+            ],
+            "full_path": [
+                "event6.jpg"
+            ],
+            "type": [
+                "image\/jpeg"
+            ],
+            "tmp_name": [
+                "C:\\xampp\\tmp\\phpE605.tmp"
+            ],
+            "error": [
+                0
+            ],
+            "size": [
+                274963
+            ]
+        },
+        "description": "Purple Vinyl\r\n\r\nPrimeiro \u00e1lbum da banda brasileira de Speed Metal, lan\u00e7ado em 2019.\r\n\r\nLimitado em 250 c\u00f3pias.",
+        "shortened_description": "\u00c1lcool \u2013 Alta Velocidade Vinyl",
+        "price": "100",
+        "status": "on",
+        "creation_date": "2024-01-25 19:49:59",
+        "id": "65b2bb680f423",
+        "updated_date": "2024-01-26 11:32:30"
+    },
+    {
+        "name": "Andralls \u2013 Force Against Mind Vinyl",
+        "image": {
+            "name": [
+                "40c06468f07978c8cded2f52dc364fd4.jpg"
+            ],
+            "full_path": [
+                "event7.jpg"
+            ],
+            "type": [
+                "image\/jpeg"
+            ],
+            "tmp_name": [
+                "C:\\xampp\\tmp\\phpD577.tmp"
+            ],
+            "error": [
+                0
+            ],
+            "size": [
+                185489
+            ]
+        },
+        "description": "Segundo \u00e1lbum da banda Paulista de Thrash Metal, lan\u00e7ado em 2003.\r\n\r\nLimitado em 250 c\u00f3pias.",
+        "shortened_description": "Andralls \u2013 Force Against Mind Vinyl",
+        "price": "100",
+        "status": "on",
+        "creation_date": "2024-01-25 19:54:17",
+        "id": "65b2bc69ee77c",
+        "updated_date": "2024-01-26 11:32:24"
+    },
+    {
+        "name": "Flagelad\u00f6r - Culto aos Decib\u00e9is",
+        "image": {
+            "name": [
+                "d0d88648de51f1cd0e17111bd8394a79.jpg"
+            ],
+            "type": [
+                "image\/jpeg"
+            ],
+            "tmp_name": [
+                "\/tmp\/phpoT9dr0"
+            ],
+            "error": [
+                0
+            ],
+            "size": [
+                2310536
+            ]
+        },
+        "description": "Quinto \u00e1lbum do FLAGELAD\u00d6R, em CD.\r\n\r\nTRACKLIST:\r\n\r\n1 -Velas Negras(Intro)\r\n2- Conjura\u00e7\u00e3o\r\n3- Somente o A\u00e7o Nos Salvar\u00e1\r\n4- Anjo Exterminador\r\n5- Culto aos Decib\u00e9is\r\n6- Infort\u00fanios do Estige (Intro)\r\n7- Estigiofobia\r\n8- Total Dana\u00e7\u00e3o\r\n9- Esp\u00edrito da Perversidade\r\n",
+        "shortened_description": "Flagelad\u00f6r - Culto aos Decib\u00e9is",
+        "price": "R$ 35,00",
+        "status": "on",
+        "creation_date": "2024-05-24 18:16:37",
+        "id": "665103b747c1d",
+        "updated_date": "2024-05-24 18:18:53"
+    },
+    {
+        "name": "Trov\u00e3o - Prisioneiro do Rock n' Roll Vinyl",
+        "image": {
+            "name": [
+                "10ccb7fedb3d63ab3f9e9800ec83e9f3.37.53.jpeg"
+            ],
+            "type": [
+                "image\/jpeg"
+            ],
+            "tmp_name": [
+                "\/tmp\/php80asPG"
+            ],
+            "error": [
+                0
+            ],
+            "size": [
+                126663
+            ]
+        },
+        "description": "Vinil em 3 modelos do primeiro \u00e1lbum do Trov\u00e3o. ",
+        "shortened_description": "Trov\u00e3o - Prisioneiro do Rock n' Roll Vinyl",
+        "price": "N\/D",
+        "status": "on",
+        "creation_date": "2024-06-12 18:14:44",
+        "id": "666a0fc4ec065"
+    },
+    {
+        "name": "Antroforce - Antropocaos ",
+        "image": {
+            "name": [
+                "43ae05041a719832ae3fecbce95cc688.24.40.jpeg"
+            ],
+            "type": [
+                "image\/jpeg"
+            ],
+            "tmp_name": [
+                "\/tmp\/phpJNsE8D"
+            ],
+            "error": [
+                0
+            ],
+            "size": [
+                133246
+            ]
+        },
+        "description": "Antroforce lan\u00e7a \"Antropocaos\" \u2013 Novo \u00e1lbum que explora o caos da exist\u00eancia humana em sete faixas impactantes\r\n\r\nA banda Antroforce, refer\u00eancia no thrash metal nacional, apresenta seu mais recente \u00e1lbum, Antropocaos, um mergulho visceral nas complexidades e no caos da condi\u00e7\u00e3o humana. Formado em 2006 na cidade de Carapicu\u00edba, a banda entrega sete faixas intensas que evocam o esp\u00edrito do thrash old school, com influ\u00eancias de \u00edcones como Sepultura (fase cl\u00e1ssica), Vulcano, Possessed e Destruction.\r\n\r\nAntropocaos explora temas de aliena\u00e7\u00e3o, conflitos hist\u00f3ricos, escurid\u00e3o e uma devo\u00e7\u00e3o inabal\u00e1vel ao heavy metal, refletindo as tens\u00f5es do mundo contempor\u00e2neo em composi\u00e7\u00f5es diretas e poderosas. Os riffs contundentes e os vocais impactantes oferecem uma experi\u00eancia sonora provocativa e aut\u00eantica.\r\n\r\nA grava\u00e7\u00e3o do \u00e1lbum foi realizada em dois est\u00fadios consagrados de S\u00e3o Paulo: a bateria foi captada no Lau Est\u00fadio, enquanto as guitarras, baixo e vocais foram gravados no Est\u00fadio No Limits, sob a produ\u00e7\u00e3o de Ivi Kardec, tamb\u00e9m integrante das bandas Podrid\u00e3o e Beyond The Grave. A capa, assinada por Thiago Booler, e as fotos do encarte, de Raphael Branquinho, complementam a identidade visual do projeto, destacando sua est\u00e9tica brutal e sombria.\r\n\r\nLan\u00e7amento no dia 16 de novembro de 2024.",
+        "shortened_description": "Antroforce - Antropocaos ",
+        "price": "Com a banda",
+        "status": "on",
+        "creation_date": "2024-11-06 13:05:31",
+        "id": "672b93cbe96bb",
+        "updated_date": "2025-01-30 14:58:16"
+    }
+]
